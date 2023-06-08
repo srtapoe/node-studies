@@ -1,0 +1,13 @@
+body{
+    background-color: #f3d53a;
+    text-align: center;  
+}
+
+h1{
+    font-size: 50px;
+    color: #5b4d54
+}
+
+h1:hover{
+    color: #282d41;
+}
